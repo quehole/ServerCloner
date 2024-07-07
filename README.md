@@ -1,9 +1,10 @@
-## ServerCloner is a tool that clones any Discord server of your choice.
+## ServerCloner
 
-# This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool.
+A tool that clones any Discord server of your choice.
+This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool.
 
 
-## How to use?
+## How do I use it?
 
 ```typescript
 $ pnpm i
