@@ -1,36 +1,18 @@
-## ServerCloner
+## TwitchAIO
 
-A tool that clones any Discord server of your choice.
-This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool.
+A discord bot that allows its users to give out free Twitch Followers, Spams & more!
 
 
 ## How do I use it?
 
-```typescript
-$ pnpm i
-— or
-$ npm i
-— or
-$ yarn add
+```
+git clone https://github.com/quehole/TwitchAIO.git
 ```
 
-**Examples with tsx**
-```typescript
-$ pnpm i -g tsx
-— or
-$ npm i -g tsx
-```
+- Add your Tokens in tokens.txt
+- Configure the bot in settings.json
 
-```typescript
-$ tsx .
+# Run the bot 
 ```
-
-## Termux/Mobile
-```Termux/Moblie
-$ git clone https://github.com/quehole/ServerCloner.git
-$ cd ServerCloner
-$ npm i
-$ npm i -g tsx
-$ tsx .
+npm index.js
 ```
------------
